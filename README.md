@@ -6,13 +6,13 @@ The purpose of this analysis is to determine whether refactoring the code succes
 
 ## Results
 
-The below data shows the comparison of the Stock performance between 2017 and 2018. 
+The below data shows the comparison of the Stock performance between 2017 and 2018. As shown in the screenshot the return is higher in 2017 as compared to 2018. 
 
-<img width="222" alt="Screen Shot 2021-06-28 at 9 12 56 PM" src="https://user-images.githubusercontent.com/85711507/123726490-b2e36980-d855-11eb-95e5-9e6573b13a38.png">
+<img width="300" alt="Screen Shot 2021-06-28 at 9 12 56 PM" src="https://user-images.githubusercontent.com/85711507/123726490-b2e36980-d855-11eb-95e5-9e6573b13a38.png">
 
-<img width="219" alt="Screen Shot 2021-06-28 at 9 12 23 PM" src="https://user-images.githubusercontent.com/85711507/123726505-b971e100-d855-11eb-8932-d67bfbe925e3.png">
+<img width="300" alt="Screen Shot 2021-06-28 at 9 12 23 PM" src="https://user-images.githubusercontent.com/85711507/123726505-b971e100-d855-11eb-8932-d67bfbe925e3.png">
 
-The below screenshot shows the comparison of the execution times of the original script and the refactored script.
+The below screenshot shows the comparison of the execution times of the original script and the refactored script. Refactoring helped with reducing the execution time for both the years 2017 and 2018. 
 
 ### Original Script
 
@@ -26,15 +26,15 @@ The below screenshot shows the comparison of the execution times of the original
 
 ## 3.1 What are the advantages or disadvantages of refactoring code?
 
-    Advantages of Refactoring code
-    Refactoring helps in identifying the bugs, improves software design and helps in making the program easier to understand.
+  Advantages of Refactoring code
+  Refactoring helps in identifying the bugs, improves software design and helps in making the program easier to understand.
     
-   Disadvantages of Refactoring code
-    Refactoring can be very time consuming and in some cases it might be even difficult to understand and complete it.
+  Disadvantages of Refactoring code
+  Refactoring can be very time consuming and in some cases it might be even difficult to understand and complete it.
     
 ## 3.2 How do these pros and cons apply to refactoring the original VBA script?
-     
-     Refactoring the original VBA script made the code run faster. It also helped in making the code easier to understand. The major issue in refactoring the            original script was that it was a very time consuming process. At some point it also
+    
+  Refactoring the original VBA script made the code run faster. It also helped in making the code easier to understand. The major issue in refactoring the             original script was that it was a very time consuming process. 
 
     
     
